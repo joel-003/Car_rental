@@ -2,5 +2,5 @@
 Car Rental website
 
 Name: Joel K <br></br>
-id: 963521104028.
-College Name: Stella Marry's College of Engineering.
+Id: 963521104028 <br></br>
+College Name: Stella Marry's College of Engineering<br></br>
